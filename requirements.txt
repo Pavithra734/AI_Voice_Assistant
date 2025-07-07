@@ -1,0 +1,12 @@
+pyttsx3
+speechrecognition
+pyaudio
+requests
+wikipedia
+randfacts
+pywhatkit
+psutil
+word2number
+selenium
+webdriver-manager
+vosk
